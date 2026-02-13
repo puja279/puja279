@@ -32,7 +32,7 @@ Git | GitHub | Docker (Basic) | Redis | AWS (EC2, S3 – Basic)
 🧠 Core Concepts
 OOP | Data Structures | Multithreading | API Design | Clean Code | Software Development Lifecycle
 
-🤝🏻 Connect with Me
+🤝🏻 Connect with Me <br>
 [Linkedin](https://www.linkedin.com/in/puja-maharana-939168280/)
 
 

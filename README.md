@@ -1,41 +1,45 @@
-Hi there, I'm Puja Maharana 👧<br>
-A passionate Python Backend Developer 🎯 | API Developer.
+## Hi there, I'm Puja Maharana 👋  
+### Python Backend Developer | API Developer 🚀  
 
-👩‍💻 About Me<br>
+---
 
-I’m a passionate Backend Developer with 1 year of internship experience in building scalable backend systems and RESTful APIs.
-<br>
-I enjoy solving real-world problems using clean code, best practices, and efficient backend architecture.
-<br>
-🔭 Currently focusing on Python Backend Development<br>
+## 👩‍💻 About Me  
 
-⚡ Hands-on experience with Python &  APIs
+I am a passionate Python Backend Developer with **1 year of hands-on internship experience** in building scalable backend systems and APIs.  
 
-🧵 Worked with Multithreading & Performance Optimization
+I enjoy solving real-world problems using clean code, best practices, and efficient backend architecture. I am continuously learning and improving my skills in backend engineering and system design.
 
-🗄 Experience using Redis Caching
+🔭 Currently focusing on **Python Backend Development**  
+⚡ Hands-on experience with **Python & APIs**  
+🧵 Worked with **Multithreading & Performance Optimization**  
+🗄 Experience with **Redis Caching**  
+☁️ Basic knowledge of **AWS Deployment (EC2, S3)**  
+💡 Strong interest in **System Design & Scalable Applications**  
 
-☁️ Basic knowledge of AWS Deployment
+---
 
-💡 Strong interest in System Design & Scalable Applications
+## 🚀 Tech Stack  
 
-🚀 Tech Stack<br>
-💻 Backend<br>
-Python  |  APIs
+### 💻 Backend  
+Python | APIs  
 
-🗄 Database<br>
-MySQL | PostgreSQL
+### 🗄 Database  
+PostgreSQL  
 
-⚡ Tools & Technologies<br>
-Git | GitHub | Docker (Basic) | Redis | AWS (EC2, S3 – Basic)
+### ⚡ Tools & Technologies  
+Git | GitHub | Redis | AWS (EC2, S3 – Basic)  
 
-🧠 Core Concepts<br>
-OOP | Data Structures | Multithreading | API Design | Clean Code | Software Development Lifecycle
+---
 
-🤝🏻 Connect with Me <br>
-[Linkedin](https://www.linkedin.com/in/puja-maharana-939168280/)
+## 🧠 Core Concepts  
+OOP | Data Structures | Multithreading | API Design | Clean Code | Software Development Lifecycle  
 
+---
 
-🌱 Current Goal<br>
+## 🤝 Connect with Me  
+🔗 [LinkedIn](https://www.linkedin.com/in/puja-maharana-939168280/)  
 
-To grow as a Python Backend Engineer and work on scalable, high-performance backend systems.
+---
+
+## 🌱 Current Goal  
+To grow as a Python Backend Engineer and contribute to scalable, high-performance backend systems in a production environment.

@@ -1,11 +1,11 @@
 ## Hi there, I'm Puja Maharana 👋  
-### Python Backend Developer | API Developer 🚀  
+### Python Backend Developer | API Developer | Software Engineer🚀  
 
 ---
 
 ## 👩‍💻 About Me  
 
-I am a passionate Python Backend Developer with **1 year of hands-on internship experience** in building scalable backend systems and APIs.  
+I am a passionate Developer with **1 year of hands-on internship experience** in building scalable backend systems and APIs.  
 
 I enjoy solving real-world problems using clean code, best practices, and efficient backend architecture. I am continuously learning and improving my skills in backend engineering and system design.
 
@@ -42,4 +42,4 @@ OOP | Data Structures | Multithreading | API Design | Clean Code | Software Deve
 ---
 
 ## 🌱 Current Goal  
-To grow as a Python Backend Engineer and contribute to scalable, high-performance backend systems in a production environment.
+To grow as a Software Engineer and contribute to scalable, high-performance backend systems in a production environment.

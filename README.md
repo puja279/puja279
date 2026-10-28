@@ -37,7 +37,7 @@ OOP | Data Structures | Multithreading | API Design | Clean Code | Software Deve
 ---
 
 ## 🤝 Connect with Me  
-🔗 [LinkedIn](https://www.linkedin.com/in/puja-maharana-939168280/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/puja-maharana-641194446/)  
 
 ---
 
